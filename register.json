@@ -2,11 +2,15 @@
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
-    }
+  "kubecell": {
+    "repo": "https://github.com/taosher/KubeCell",
+    "target": "kubecell.pages.dev"
   },
+  "on7esports": {
+    "repo": "https://github.com/warleyvs597-ui/ON7-ESPORTS",
+    "target": "warleyvs597-ui.github.io"
+  }
+},
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
